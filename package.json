@@ -1,0 +1,12 @@
+{
+  "name": "puppeteer-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {},
+  "dependencies": {
+    "puppeteer": "^21.3.1"
+  },
+  "author": "",
+  "license": "MIT"
+}
