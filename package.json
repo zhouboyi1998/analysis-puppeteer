@@ -1,0 +1,12 @@
+{
+  "name": "analysis-puppeteer",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {},
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "puppeteer": "^21.3.1"
+  },
+  "author": "zhouboyi",
+  "license": "MIT"
+}
