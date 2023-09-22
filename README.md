@@ -26,7 +26,7 @@ npm install
 #### 运行服务
 
 ```
-node main.js
+node ./src/screenshot.js
 ```
 
 ### 📜 开源协议

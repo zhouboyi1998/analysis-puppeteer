@@ -26,7 +26,7 @@ npm install
 #### Run serve
 
 ```
-node main.js
+node ./src/screenshot.js
 ```
 
 ### 📜 Licence
